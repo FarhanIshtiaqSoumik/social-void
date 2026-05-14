@@ -1,0 +1,11 @@
+{
+  "name": "void-chat",
+  "version": "1.0.0",
+  "description": "Void Messenger real-time chat microservice for Social Void",
+  "scripts": {
+    "dev": "bun --hot index.ts"
+  },
+  "dependencies": {
+    "socket.io": "^4.8.1"
+  }
+}
